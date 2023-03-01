@@ -1,0 +1,45 @@
+<testsuite>
+	<testcase classname="GlobeOne.DevopsTCsTest" name="Launch App - Launch App">
+		<failure type="fail"> [Failed] Launch App - Launch App - Launch App
+	[Fail] Step 1 : Failed to launch app
+	[Pass] Step 2 : Clicked on 'NewUser' button.
+	[Pass] Step 3 : Clicked on 'NewUser' button.
+	[Pass] Step 4 : Clicked on 'SignUpWithEmail' button.
+	[Pass] Step 5 : Entered data'password72@yopmail.com' into  'Username' text field successfully
+	[Pass] Step 6 : 'Password' is visible on the page 'Login'
+	[Pass] Step 7 : 'ConfirmPassword' is visible on the page 'Login'
+	[Pass] Step 8 : 'PasswordStrength' is visible on the page 'Login'
+	[Pass] Step 9 : 'BothPasswordMatch' is visible on the page 'Login'
+	[Pass] Step 10 : 'MinimumOfNineCharecters' is visible on the page 'Login'
+	[Pass] Step 11 : 'OneNumber' is visible on the page 'Login'
+	[Pass] Step 12 : 'OneUpperCaseLetter' is visible on the page 'Login'
+	[Pass] Step 13 : 'OneLowerCaseLetter' is visible on the page 'Login'
+	[Pass] Step 14 : 'OneSpecialCharecter' is visible on the page 'Login'
+	[Pass] Step 15 : 'CheckBoxSpiel' is visible on the page 'Login'
+	[Pass] Step 16 : Clicked on 'CheckBox' button.
+	[Pass] Step 17 : 'Signup' is visible on the page 'Login'
+	[Pass] Step 18 : Element Signup is Disabled
+	[Pass] Step 19 : Entered data'superApp01@' into  'Password' text field successfully
+	[Pass] Step 20 : Entered data'superApp01@' into  'ConfirmPassword' text field successfully
+	[Pass] Step 21 : Clicked on 'Signup' button.
+	[Pass] Step 22 : 'EmailVerified' is visible on the page 'EmailVerifiedPage'
+	[Pass] Step 23 : 'EnjoyGlobeOne' is visible on the page 'EmailVerifiedPage'
+	[Pass] Step 24 : Clicked on 'Proceed' button.
+	[Pass] Step 25 : 'AddAccountTitle' is visible on the page 'AddAccount'
+	[Pass] Step 26 : Successfully logged in
+	[Pass] Step 27 : Clicked on 'AddAccountButton' button.
+	[Pass] Step 28 : Clicked on 'MobileTab' button.
+	[Pass] Step 29 : Entered data'09561935031' into  'MobileNumberTextfield' text field successfully
+	[Pass] Step 30 : Clicked on 'NewAddAccountButton' button.
+	[Pass] Step 31 : Clicked on 'AccountNameEditIcon' button.
+	[Pass] Step 32 : Entered data'Globe' into  'AccountName' text field successfully
+	[Pass] Step 33 : Clicked on 'DoneButton' button.
+	[Pass] Step 34 : account added successfully
+	[Pass] Step 35 : Clicked on 'AddThisAccountButton' button.
+	[Pass] Step 36 : Clicked on 'ProceedButton' button.
+	[Pass] Step 37 : Successfully added account
+	[Pass] Step 38 : Clicked on 'HomeIcon' button.
+	[Pass] Step 39 : Clicked on 'Profile' button.
+ </failure>
+	</testcase>
+</testsuite>

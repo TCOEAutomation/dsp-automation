@@ -1,0 +1,13 @@
+.settings/
+.classpath
+.project
+test-output/
+
+# Generated Files
+Results/
+build/
+*.pyc
+*.pyd
+*.html
+*.c
+~$*.xlsx
